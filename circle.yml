@@ -6,7 +6,7 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: JomiTestApp 
+      appname: jomitestapp 
 
 test:
   override:    
